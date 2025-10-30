@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Development </title>
+</head>
+<body>
+    <h1>Creative Web Developer Workspace</h1>
+
+    <a href="https://images.unsplash.com/photo-1522202176988-66273c2fd55f" target="_blank">
+        <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f" 
+             alt="Web Developer Workspace" 
+             width="300">
+    </a>
+
+</body>
+</html>
