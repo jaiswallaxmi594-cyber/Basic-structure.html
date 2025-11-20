@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web Development List</title>
+</head>
+
+<body>
+
+    <h1>Web Development Skills & Tools</h1>
+    <h2>(Web Development Information)</h2>
+
+    <ol>
+        <li>HTML – Structure of web pages (HyperText Markup Language).</li>
+        <li>CSS – Styling and designing web pages (Cascading Style Sheets).</li>
+        <li>JavaScript – Adds behavior and interactivity to web pages.</li>
+        <li>Responsive Design – Creating pages that work on mobile, tablet, and desktop.</li>
+        <li>Version Control – Git, GitHub for managing source code.</li>
+    </ol>
+
+    <h2>(Frameworks & Libraries)</h2>
+
+    <ul>
+        <li>Frontend Frameworks – React, Angular, Vue.</li>
+        <li>CSS Frameworks – Bootstrap, Tailwind CSS.</li>
+        <li>Backend Technologies – Node.js, PHP, Python (Django/Flask).</li>
+        <li>Databases – MySQL, MongoDB, PostgreSQL.</li>
+        <li>APIs – REST API and JSON for data transfer.</li>
+    </ul>
+
+</body>
+</html>
